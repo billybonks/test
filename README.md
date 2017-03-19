@@ -1,4 +1,4 @@
-#a test HURRAY
+# Manager bot
 asd
 
 asd
