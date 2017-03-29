@@ -8,4 +8,4 @@ New pull request does it work
 Refactor won everything
 
 # THE RULES
-
+synchronised
