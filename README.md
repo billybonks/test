@@ -1,5 +1,5 @@
 # States and Labels
-asd
+Custom label rules
 
 Pull request run through ?
 
