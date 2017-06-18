@@ -2,7 +2,7 @@
 
 We all hate states,since lables are the same
 
-# FIRE
+# FIRE :fire:
 
 - If i did things better from the start i would have less pain
 - atleast labels migration not to hard
