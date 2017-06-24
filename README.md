@@ -1,4 +1,4 @@
-# States and Labels
+# :fire: States and Labels :fire:
 
 We all hate states,since lables are the same
 
@@ -8,6 +8,6 @@ We all hate states,since lables are the same
 - atleast labels migration not to hard
 - i wonder if state labels will die completely
 
-# Github Apps
+# :fire: Github Apps :fire: :fire:
  - Synchronise
  - Review
