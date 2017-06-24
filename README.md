@@ -11,3 +11,4 @@ We all hate states,since lables are the same
 # Github Apps
  - Synchronise
  - Review
+ - State Labels 3.0
