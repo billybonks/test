@@ -12,4 +12,4 @@ We all hate states,since lables are the same
  - Synchronise
  - Review
  - State Labels 3.0
- - apply labels
+ - apply labels :simple_smile:
