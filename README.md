@@ -1,3 +1,5 @@
+Fires are made from trees
+
 # :fire: States and Labels :fire:
 
 We all hate states,since lables are the same
