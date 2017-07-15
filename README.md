@@ -1,3 +1,6 @@
+# Icons
+:simplesmile:
+
 Fires are made from trees :christmastree:
 
 # :fire: States and Labels :fire:
