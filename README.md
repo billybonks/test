@@ -18,3 +18,5 @@ We all hate states,since lables are the same
 
 
 # Ignore labels
+ - opened
+ - synch
