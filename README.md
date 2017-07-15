@@ -8,7 +8,7 @@ We all hate states,since lables are the same
 - atleast labels migration not to hard
 - i wonder if state labels will die completely
 
-# Github Apps
+# :tree: Github Apps :tree:
  - Synchronise
  - Review
  - State Labels 3.0
