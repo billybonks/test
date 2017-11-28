@@ -1,4 +1,4 @@
-Fires are made from trees :christmastree:
+Fires are made from trees :smile:
 
 # :fire: States and Labels :fire:
 
