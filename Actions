@@ -5,3 +5,5 @@ Actions
 
 Events
 1. pull_request_review_approved
+2. pull_request_review_rejected
+3. pull_request_review_commented
