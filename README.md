@@ -28,5 +28,5 @@ We all hate states,since lables are the same
  
  # Add reviwers
  Big test try again
- with conditions, should work now. third time is the charm
+ with conditions, should work now. third time is the charm only manager bot now
  TIME TO ANNOY PEOPLE :cry:
