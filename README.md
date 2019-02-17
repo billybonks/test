@@ -40,3 +40,4 @@ dates will be a problem
 #SHA FIRE
 already double
 breaks on initial
+debug mistake refresh not same as exec statement in postico
