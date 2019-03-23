@@ -36,9 +36,12 @@ We all hate states,since lables are the same
 
 # Growing up
 dates will be a problem
+Chat service came to be
 
 #SHA FIRE
 already double
 breaks on initial
 debug mistake refresh not same as exec statement in postico
 wish branch tracking was in already
+
+
